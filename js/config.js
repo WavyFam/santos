@@ -103,7 +103,7 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Welcome to AmnestyRolePlays SantosRP Server. Enjoy your stay!",
+"Welcome to AmnestyRoleplay SantosRP Server. Enjoy your stay!",
 "Visit our forums at https://amnestyrp11.mistforums.com for updates.",
 "Our content pack can be found on our Steam Workshop.",
 "Join our Teamspeak at 85.236.100.96:10017"
