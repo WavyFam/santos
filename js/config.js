@@ -9,7 +9,7 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images/logo.png";
+var l_serverImage = "images/Logo.png"; // Github is most likely case sensative.
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
@@ -78,18 +78,18 @@ var l_bgDarkening = 50;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
-var l_music = false;
+var l_music = true; // Must be active to enable the music
 
 /*Display actual song's name?*/
-var l_musicDisplay = false;
+var l_musicDisplay = true; // Enabled if u want to display the song playing, although just enabled during the test to verify its playing
 
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
-	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
-	{youtube: "-7VeTkLKdDw", name: "Departure"}
+	//{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
+	{youtube: "LVHGI-wBIX0", name: "Bastille - Send Them Off (Whethan Remix)"},
+	{youtube: "LVHGI-wBIX0", name: "Bastille - Send Them Off (Whethan Remix)"},
+	{youtube: "LVHGI-wBIX0", name: "Bastille - Send Them Off (Whethan Remix)"}
 ];
 
 /*Random music order?*/
