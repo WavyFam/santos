@@ -87,9 +87,8 @@ var l_musicDisplay = true; // Enabled if u want to display the song playing, alt
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	//{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "LVHGI-wBIX0", name: "Bastille - Send Them Off (Whethan Remix)"},
-	{youtube: "LVHGI-wBIX0", name: "Bastille - Send Them Off (Whethan Remix)"},
-	{youtube: "LVHGI-wBIX0", name: "Bastille - Send Them Off (Whethan Remix)"}
+	{youtube: "xpVfcZ0ZcFM", name: "Drake - God’s Plan"},
+	{youtube: "_EyZUTDAH0U", name: "Travis Scott - Butterfly Effect"},
 ];
 
 /*Random music order?*/
@@ -104,10 +103,10 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Welcome to Dark Fusion Gaming's SantosRP Server. Enjoy your stay!",
-"Visit our forums at www.darkfusiongaming.net for updates.",
-"Our content pack can be found on our forums.",
-"Join our Teamspeak at ts.darkfusiongaming.net"
+"Welcome to AmnestyRolePlays SantosRP Server. Enjoy your stay!",
+"Visit our forums at https://amnestyrp11.mistforums.com for updates.",
+"Our content pack can be found on our Steam Workshop.",
+"Join our Teamspeak at 85.236.100.96:10017"
 ];
 
 /*Random message order?*/
